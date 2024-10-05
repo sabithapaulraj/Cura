@@ -1,4 +1,4 @@
-# Overview
+# Overview - Leveraging state-of-the-art AI models using Intel's OpenVINO™ and oneAPI toolkits to develop a custom transfer learning model to diagnose severity of Knee Osteoarthritis, followed by improvising available health-tech
 ## The Idea
 ![WhatsApp Image 2024-10-05 at 10 28 53_914ff959](https://github.com/user-attachments/assets/dca45394-054f-4621-ba14-9b2d4c4847b6)
 
