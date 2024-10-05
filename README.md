@@ -8,7 +8,7 @@
 ![WhatsApp Image 2024-10-05 at 10 30 26_bc6459f8](https://github.com/user-attachments/assets/0dfda760-00df-4b0b-8c0d-a31ba07407ad)
 
 # Main Components
-## LLM Chatbot for Medical Consultation (Qwen 2.5 0.5B Instruct & OpenVINO)
+## Retrieval Augmented Generation based LLM Chatbot for Medical Consultation (Qwen 2.5 0.5B Instruct, Qwen 2.5 14B Instruct & OpenVINO)
 ## Structure Extraction using NuExtract & OpenVINO
 ## ResNet-based Image Classification with PyTorch Optimization & OpenVINO
 # Features
